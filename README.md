@@ -8,7 +8,7 @@ A simple web application to manage and track marketing campaigns with a clean da
 - **Database:** MongoDB   
 
 # Features
-- **Login Page:** Simple authentication (username & password).  
+- **Login Page:** Simple authentication (username-admin & password-1234).  
 - **Dashboard:** Displays total, active, paused, and completed campaigns.  
 - **CRUD Operations:**  
   - Add new campaigns  
